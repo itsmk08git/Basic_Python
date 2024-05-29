@@ -1,0 +1,1 @@
+The repository is for beginners learning Python. It includes simple code examples and exercises on topics like variables, data types, loops, and functions. These resources will help you understand the basics of Python programming.
